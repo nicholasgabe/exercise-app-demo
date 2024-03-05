@@ -1,7 +1,7 @@
 {
   "name": "lab6",
   "version": "0.1.0",
-  "homepage": "http://nicholasgabe.github.io/exercise-app-demo",
+  "homepage": "https://nicholasgabe.github.io/exercise-app-demo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
